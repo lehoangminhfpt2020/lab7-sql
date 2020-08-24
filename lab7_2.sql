@@ -5,7 +5,7 @@ CREATE TABLE Students(
 StudentNo INT PRIMARY KEY,
 StudenName VARCHAR(50),
 StudentAddress VARCHAR(100),
-PhoneNo INT,
+PhoneNo INT
 )
 GO
 DROP TABLE Students
